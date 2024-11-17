@@ -45,7 +45,7 @@ function App() {
   return (
     <div className='bg-black min-h-screen'>
       <div className='w-full justify-center flex'>
-        <b className='text-2xl text-red-500'>Search Your Fav Movie and find its IMDb rating</b>
+        <b className='text-2xl text-white'>Search Your Movie</b>
       </div>
       <div className='text-red-500'>
         <form className="max-w-md mt-5 mx-auto">
